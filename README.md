@@ -29,9 +29,9 @@ The circuit is based on:
 - Battery supply
 
 ## Working Principle
-The oscillator generates a periodic emergency signal.
-This signal can be used to:
-- Drive a buzzer or speaker
+This system detects 𝐟𝐢𝐫𝐞, 𝐦𝐨𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐠𝐚𝐬 through sensors.
+Each condition activates a 𝐭𝐫𝐚𝐧𝐬𝐢𝐬𝐭𝐨𝐫-𝐛𝐚𝐬𝐞𝐝 𝐚𝐬𝐭𝐚𝐛𝐥𝐞 𝐦𝐮𝐥𝐭𝐢𝐯𝐢𝐛𝐫𝐚𝐭𝐨𝐫 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐚 𝐮𝐧𝐢𝐪𝐮𝐞 𝐟𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲.
+The output is amplified and fed to a speaker/buzzer to produce distinct alert tones for each emergency.
 
 
 ## Applications
